@@ -14,3 +14,26 @@ console.log(name, age, totalPrice, ab);
 
 // var age = 24;
 // var age = 59;
+// var age = 86;
+// console.log(age);
+
+
+//const keyword
+
+
+const a = 24;
+const PI = 3.14;
+// a = 45;
+//if you just writing const; then printing that you will get error msg that you have to intialize the const variable
+console.log(a);
+console.log(PI);
+
+
+//in let and const  we get block scope means curly bracket{}in a
+{
+    let a = 90;
+    console.log(a);
+} {
+    let a = 12;
+    console.log(a);
+} //modren js after 2015
