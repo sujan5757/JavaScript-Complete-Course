@@ -11,9 +11,6 @@
 <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW">YouTube Videos</a><br>
 <a href="https://drive.google.com/drive/folders/1nweZ9gZBRqqgPfdPCLJbJPrfuAARV_8e"> Complete Notes</a>
 
-
-## Courses : 
-
 ## Content of each Folders 
 
 ### Basic 
