@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%23777BB4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Learning Platform : ![Shradha Kapra](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+## Learning Platform : ![Shradha Kapra](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=Shradha Kapra&logoColor=white)
 
 ## Courses : 
 
