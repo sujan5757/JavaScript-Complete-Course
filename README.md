@@ -6,10 +6,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Learning Platform : 
-![Shradha Kapra <a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW"></a>](https://img.shields.io/badge/Shradha_Kapra-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Shradha Kapra](https://img.shields.io/badge/Shradha_Kapra-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-<a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW">YouTube</a><br>
-<a href="https://drive.google.com/drive/folders/1nweZ9gZBRqqgPfdPCLJbJPrfuAARV_8e">Notes</a>
+<a href="https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW">YouTube Videos</a><br>
+<a href="https://drive.google.com/drive/folders/1nweZ9gZBRqqgPfdPCLJbJPrfuAARV_8e"> Complete Notes</a>
 
 
 ## Courses : 
