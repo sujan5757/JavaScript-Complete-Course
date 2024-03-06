@@ -13,13 +13,13 @@
 ## Content of each Folders 
 
 ### Basic 
--Print Statements
--Variables
--Let , Const , Var
--Data Types -Primitive
--Data Types -Non Primitive
--Comments in JS
--alert in JS
+- Print Statements
+- Variables
+- Let , Const , Var
+- Data Types -Primitive
+- Data Types -Non Primitive
+- Comments in JS
+- alert in JS
 
 ### Conditional Statements
 - if
