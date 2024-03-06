@@ -7,7 +7,6 @@
 
 ## Learning Platform : 
 ![Shradha Kapra](https://img.shields.io/badge/Shradha_Kapra-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-Link : https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
 
 ## Courses : 
 
