@@ -55,6 +55,24 @@
 - Escape Character
 - String Methods
 - Template Literals
+- 
+### Document Object Model 
+- Basics
+- DOM Manipulation
+- Properties
+- getAttribute
+- setAttribute
+- node.style
+- DOM Manipulation Methods
+
+### Events
+- inline Event Handling
+- Js node Event
+- Event listeners
+- Event objects
+
+### Game Development
+- Tic Tac Toe
 
 ### Home Work Sums
 - grades.js
