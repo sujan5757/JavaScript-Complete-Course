@@ -1,0 +1,11 @@
+/*Event object :  it is special object that has details about the event 
+All event handlers have access to the event objects properties and methods 
+node.event=(e)=>{
+//handle here
+}
+
+E.target - type and event target 
+E.type - type of the event 
+e.clientX - horizontally where the events presents 
+e.clientY - vertically where the events presents 
+*/
